@@ -38,30 +38,10 @@ rel="noreferrer"
     height="60"
 />
 </a>
-<a
-href="https://www.typescriptlang.org/"
-target="_blank"
-rel="noreferrer"
->
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="60"
-    height="60"
-/>
-</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
-    width="60"
-    height="60"
-/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux"
     width="60"
     height="60"
 />
@@ -78,7 +58,7 @@ rel="noreferrer"
 
 
 <h3> Back-End Skills📚</h3>
-<p>
+<p align="left">
 <a href="https://nodejs.org/ko/" target="_blank" rel="noreferrer">
 <img
   src="https://skillicons.dev/icons?i=nodejs"
@@ -122,7 +102,7 @@ rel="noreferrer"
 </p>
 
 <h3>Tools🛠</h3>
-<p>
+<p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -181,6 +161,30 @@ rel="noreferrer"
 </a>
 </p>
 
+<h3>Learning📝</h3>
+<p align="left">
+</p>
+<a
+href="https://www.typescriptlang.org/"
+target="_blank"
+rel="noreferrer"
+>
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="60"
+    height="60"
+/>
+</a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+    alt="redux"
+    width="60"
+    height="60"
+/>
+</a>
+<br>
 <br>
 
 <h2>Latest Blog Posts</h2>
