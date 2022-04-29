@@ -8,7 +8,7 @@ Welcome to my Github!<br> I'm Taeil Kim, Front-End developer from <img src="http
 
 <br>
 
-<h3>Front-End Skills📚</h3>
+<h3>Front-End Skills🖼</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img
@@ -57,7 +57,7 @@ rel="noreferrer"
 </p>
 
 
-<h3> Back-End Skills📚</h3>
+<h3> Back-End Skills🗃</h3>
 <p align="left">
 <a href="https://nodejs.org/ko/" target="_blank" rel="noreferrer">
 <img
