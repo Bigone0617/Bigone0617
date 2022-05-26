@@ -189,11 +189,11 @@ rel="noreferrer"
 
 <h2>Latest Blog Posts</h2>
 <ul>
+  <li><a href="https://daily-life-of-bigone.tistory.com/41" target="_blank" rel="noreferrer">[TypeScript] 01. VSCode로 TypeScript 시작하기</a></li>
   <li><a href="https://daily-life-of-bigone.tistory.com/40" target="_blank" rel="noreferrer">[Next.js] Vercel로 프론트 배포하기 (도메인 변경)</a></li>
   <li><a href="https://daily-life-of-bigone.tistory.com/39" target="_blank" rel="noreferrer">[자바스립트(JavaScript )] 13. Strict mode</a></li>
   <li><a href="https://daily-life-of-bigone.tistory.com/38" target="_blank" rel="noreferrer">[Next.js] 01. 시작하기</a></li>
   <li><a href="https://daily-life-of-bigone.tistory.com/37" target="_blank" rel="noreferrer">[자바스립트(JavaScript )] 12. 함수의 다양한 형태 (즉시 실행 함수, 내부 함수, callback 등)</a></li>
-  <li><a href="https://daily-life-of-bigone.tistory.com/36" target="_blank" rel="noreferrer">[자바스립트(JavaScript )] 11. 함수 프로퍼티 (Function Property)</a></li>
 </ul>
 <a href="https://daily-life-of-bigone.tistory.com/" target="_blank" rel="noreferrer">👉More blog posts</a>
 
