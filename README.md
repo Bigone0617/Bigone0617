@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/Bigone0617/Bigone0617/blob/main/%EB%9D%BC%EC%9D%B4%EC%96%B8.gif" width="300"/>
 <h1> Hi, I'm Taeil</h1>
 <p>
-Welcome to my Github!<br> I'm Taeil Kim, Front-End developer from <img src="https://user-images.githubusercontent.com/35951995/165882490-21a75f8a-7efd-46a1-8124-9cb1cfd8e755.png" width="20"> <b> Yongin, Korea. </b><br>
+Welcome to my Github!<br> I'm Taeil Kim, Full-stack developer from <img src="https://user-images.githubusercontent.com/35951995/165882490-21a75f8a-7efd-46a1-8124-9cb1cfd8e755.png" width="20"> <b> Yongin, Korea. </b><br>
 <a href="https://taeilkim.vercel.app/" target="_blank" rel="noreferrer">Portfolio Site📂</a>
 </p>
 
