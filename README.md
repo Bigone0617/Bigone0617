@@ -91,6 +91,14 @@ rel="noreferrer"
   height="60"
 />
 </a>
+<a href="https://www.nestjs.com" target="_blank" rel="noreferrer">
+<img
+  src="https://skillicons.dev/icons?i=nestjs"
+  alt="cs"
+  width="60"
+  height="60"
+/>
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img
   src="https://skillicons.dev/icons?i=mysql"
