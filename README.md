@@ -71,7 +71,7 @@ rel="noreferrer"
 
 <h3> Back-End Skills🗃</h3>
 <p align="left">
-<a href="https://nodejs.org/ko/" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
 <img
   src="https://skillicons.dev/icons?i=nodejs"
   alt="nodejs"
